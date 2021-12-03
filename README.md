@@ -1,3 +1,39 @@
+Build a real estate application in next js.In this application all data fetch from 3rd party api.
+We have build home page,search functionality and product detail page.Used chakra-ui for responsiveness.
+
+
+home page
+
+![image](https://user-images.githubusercontent.com/34640475/144610490-4db76186-04bc-41a7-907f-a2d498661d84.png)
+
+
+search page
+
+![image](https://user-images.githubusercontent.com/34640475/144610569-84c814d9-038d-496c-8eef-a3f8e2776e40.png)
+
+details page
+
+![image](https://user-images.githubusercontent.com/34640475/144610658-2b2aaa73-5e78-4927-8584-884a40f7e4a0.png)
+
+
+
+Key Features
+    
+    Buy property and rent property.
+    Search property with different filters.
+    location wise search also available.
+    properties details with all information about property.
+    Fully responsive.
+    
+    
+Key Technologies
+
+    React.js
+    Next.js
+    Chakra-ui
+    Rapid Api
+    
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
